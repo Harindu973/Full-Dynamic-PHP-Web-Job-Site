@@ -1,0 +1,191 @@
+.foot {
+  float: right;
+}
+
+.top{
+  width: 100%;
+}
+
+.jdtitle{
+  float: left;
+  color: green;
+  height: 25px;
+}
+
+.jdlogo{
+  float: right;
+}
+
+.jdcompany{
+  
+  font-size: 20px;
+  float: left;
+    color: #05ACE2;
+}
+
+.jddate{
+  float: left;
+}
+
+.jddesc{
+  float: left;
+  width: 120%;
+}
+
+.applymail{
+  color: blue;
+}
+
+.input-container {
+  position: relative;
+  width: 150px;
+}
+
+.input-container input {
+  width: 100%;
+}
+
+.input-container .unit {
+  position: absolute;
+  display: block;
+  top: 3px;
+  right: -3px;
+  background-color: grey;
+  color: #ffffff;
+  padding-left: 5px;
+  width: 45px;
+}
+
+.mainback {
+  height: 100%;
+}
+
+.recent{
+  float: right;
+  width: 80%;
+  padding-right: 20%;
+  padding-bottom: 1px;
+  
+}
+
+.latest{
+  padding-left: 10%;
+  font-size: 60px;
+  color: #1A9FCA;
+  padding-bottom: 72px;
+
+}
+
+
+
+
+
+.slink {
+  color:white;
+}
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  padding-top: 9px;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 120px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.title {
+  text-align: center;
+  float: left;
+  width: 50%;
+}
+
+.tmenu {
+  text-align: right;
+  
+}
+
+.black_link {
+  color: Black;
+ 
+}
+
+.imge {
+  width:10%;
+  height: 50%;
+}
+
+.main1 {
+  float:middle;
+  padding-top: 75px;
+
+  text-align: left;
+}
+
+.mail {
+  float:left;
+  width:60%;
+  padding-left: 300px;
+  padding-right: 50px;
+  padding-bottom: 200px;
+}
+
+.tp {
+  padding-right: 20%;
+  float: right;
+ 
+
+}
+
+.mid{
+  width:80%;
+  padding-left:15%;
+  padding-top: 2%;
+  padding-bottom: 500px;
+}
+.midtex{
+   width:80%;
+  padding-left:12%;
+  padding-top: 8%;
+  font-size: 550%;
+}
+
+.pic {
+    width:200px;
+  height: 200px;
+  padding:5px;
+}
+
+th {
+
+  color:#05ACE2;
+
+}
+
+.us{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.jobdesc{
+  float: left;
+  width:50%;
+  padding-left: 200px;  ntttttttttttt 
+  border-color: #26baee;
+}
+
+.slogo{
+ 
+  margin-right: 20px;
+}
+
