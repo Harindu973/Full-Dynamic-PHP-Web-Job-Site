@@ -1,0 +1,4 @@
+1) Firstly create database as "jobseeker".
+2) Import data tables witch are in Databases folder .
+3) Admin panel is for delete and update records.
+4) User forlder is the our Web Site.
